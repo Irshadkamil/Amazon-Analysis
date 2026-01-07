@@ -180,14 +180,12 @@ Stores shipping and return information.
 ## 📂 Project Structure
 Amazon-SQL-Project/
 ├── README.md
-├── ERD/
+├── Amazon ER Diagram/
 │   └── erd.jpeg
-├── schema/
-│   └── amazon_schema.sql
 ├── data_cleaning/
-│   └── amazon_data_cleaning.sql
+│   └── Data_cleaning.sql
 ├── analysis/
-│   └── amazon_business_queries.sql
+│   └── amazon_project_analysis.sql
 ├── dataset/
 │   └── amazon_dataset_files
 └── .gitattributes
